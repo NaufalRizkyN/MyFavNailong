@@ -72,7 +72,7 @@ export default function Home() {
             {/* Top Cute Pill Badge */}
             <div className="inline-flex items-center gap-2 bg-white/80 border border-amber-300/70 text-amber-900 font-bold px-4 py-1.5 rounded-full shadow-sm text-xs sm:text-sm mb-4 animate-bounce-slow backdrop-blur-md">
               <Sparkles className="w-4 h-4 text-amber-500 fill-amber-400" />
-              <span>Ada yang mau ngomong sesuatu nih...</span>
+              <span>Untuk CintaQ</span>
               <Sparkles className="w-4 h-4 text-amber-500 fill-amber-400" />
             </div>
 
