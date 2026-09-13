@@ -173,7 +173,7 @@ export const LetterView: React.FC<LetterViewProps> = ({ onBack }) => {
 
           <div className="bg-rose-50/60 p-4 rounded-2xl border border-rose-100/80">
             <p className="text-rose-950">
-              Disini juga aku mau ngomong kalo aku ga minta ko buat kamu ngasih aku ruang lagi atau semacamnya, wa ku dibales aja uda happy banget hihiii cuman aku mau ntar kalo aku uda jadi yg kamu mau pls bgt di coba lagi yaa☹️, aku gatau harus gimana beneran aku pure linglung kalo gaada km bahkan saat nulis ini aja aku sambil mabuk karna gatau kenapa rasanya sakit aja liat km main sampe ke pantai bareng cowo² hehehe uda deh gitu aja yg mau ku bicarain terimacii yaaaa dan sekali lagi aku minta maaf banget buat kejadian kejadian yg uda ku lakuin.
+              Disini juga aku mau ngomong kalo aku ga minta ko buat kamu ngasih aku ruang lagi atau semacamnya, wa ku dibales aja uda happy banget hihiii cuman aku mau ntar kalo aku uda jadi yg kamu mau pls bgt di coba lagi yaa☹️, aku gatau harus gimana beneran aku pure linglung kalo gaada kamu bahkan saat nulis ini aja aku sambil minum karna gatau kenapa rasanya sakit aja liat km main sampe ke pantai bareng cowo² hehehe uda deh gitu aja yg mau ku bicarain terimacii yaaaa dan sekali lagi aku minta maaf banget buat kejadian kejadian yg uda ku lakuin.
             </p>
           </div>
 
